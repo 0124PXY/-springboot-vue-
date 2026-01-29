@@ -1,7 +1,7 @@
 # 📱 移动宽带服务管理系统 (Mobile Broadband Service System)
 
 ## 📖 项目简介
-本项目是一款基于 **Spring Boot + Vue** 的全栈宽带业务管理系统。采用 **MySQL** 存储数据，前端结合 **Layui** 与 HTML/CSS/JS 开发。旨在实现宽带业务全流程的数字化管理。
+本项目是一款基于 **Spring Boot + Vue** 的全栈宽带业务管理系统。采用 **MySQL** 存储数据，前端基于  **Vue + Element UI **组件库与 HTML/CSS/JS 开发。旨在实现宽带业务全流程的数字化管理。
 
 ## 🚀 核心功能模块
 
